@@ -133,3 +133,6 @@ dmypy.json
 
 # ios
 .DS_Store
+
+# data
+data/
