@@ -1,0 +1,10 @@
+{
+  "plate_width": 100,
+  "plate_height":100,
+  "plate_thickness": 5,
+  "hole_radius": 15,
+  "hole_depth": 5,
+  "hole_padding": 10,
+  "name_template": "plate_{study_index:06d}",
+  "injection_direction": [0, 1, 1]
+}
