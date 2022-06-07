@@ -44,13 +44,6 @@ six==1.16.0
 threadpoolctl==3.1.0
 tomli==2.0.1
 tomlkit==0.11.0
-torch==1.11.0
-torch-cluster==1.6.0
-torch-geometric==2.0.4
-torch-scatter==2.0.9
-torch-sparse==0.6.13
-torch-spline-conv==1.2.1
-torchvision==0.12.0
 tqdm==4.64.0
 typing_extensions==4.2.0
 urllib3==1.26.9
